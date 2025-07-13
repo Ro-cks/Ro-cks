@@ -1,11 +1,10 @@
 <div>
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hyunwoo's%20GitHub)
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hyunwoo's%20GitHub" />
 </div>
 
 <div>
   <!--Body-->
-  
   ## Tech Stack
   
   ### Language
