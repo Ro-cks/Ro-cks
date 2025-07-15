@@ -19,9 +19,8 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
   ## GitHub Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ro-cks)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-cks)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ro-cks)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmmni120)](https://solved.ac/mmmni120)
   
