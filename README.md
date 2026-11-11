@@ -3,7 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hyunwoo's%20GitHub" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ro-cks&label=VISITORS&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 <!--Body-->
+
 ## Tech Stack
 
 ### Language
