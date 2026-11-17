@@ -35,7 +35,7 @@
 
 | 프로젝트 | 소개 | 역할 | 주요 기술 |
 |---|---|---|---|
-| [**자리야**](https://github.com/Ro-cks/zarya) | 개인의 유휴 공간을 활용한 주차장 공유 서비스 | 백엔드 | Spring Batch, Spring Security, Redis, JWT |
+| [**자리야**](https://github.com/Ro-cks/zarya) | 개인의 유휴 공간을 활용한 주차장 공유 서비스 | 백엔드 | Spring Batch, Redis, JWT |
 | [**관상네컷**](https://github.com/Ro-cks/4cut) | 얼굴 특징과 사주 정보로 관상을 분석하는 생성형 AI 서비스 | 백엔드 · RAG | Spring Boot, Redis, LLM |
 | [**CARe**](https://github.com/Ro-cks/CARe-BE-Refactoring) | 블록체인 기반 렌터카 중개 서비스의 분쟁·정산 백엔드 리팩토링 | 팀장 · 백엔드 | Java, Spring Boot, JPA, MySQL |
 | [**한결**](https://github.com/Ro-cks/hangyul) | 요양기관 돌봄 기록을 AI로 정제해 보호자에게 전달하는 서비스 | 인프라 · DevOps | AWS, Docker, Jenkins, NGINX |
