@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ro-cks&label=VISITORS&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 <!--Body-->
+## Blog
+![https://ro-cks.github.io/](https://ro-cks.github.io/)
 
 ## Tech Stack
 
