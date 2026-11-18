@@ -8,7 +8,7 @@
 </p>
 <!--Body-->
 ## Blog
-[![Blog](https://img.shields.io/badge/Blog-ro--cks.github.io-222222?style=for-the-badge)](https://ro-cks.github.io/)
+[ro-cks.github.io](https://ro-cks.github.io/)
 
 ## Tech Stack
 
