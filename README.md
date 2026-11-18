@@ -11,6 +11,9 @@
 ## Blog
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-ro--cks.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://ro-cks.github.io/)
 
+### Recent Posts
+- [@PreUpdate 때문에 API 응답의 updatedAt이 틀렸던 이유](https://ro-cks.github.io/preupdate-updatedat-mismatch.html)
+
 ## Tech Stack
 
 ### Language
