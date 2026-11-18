@@ -12,6 +12,7 @@
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-ro--cks.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://ro-cks.github.io/)
 
 ### Recent Posts
+- [인덱스를 만들었는데 LIKE 검색이 빨라지지 않은 이유](https://ro-cks.github.io/like-search-index.html)
 - [@PreUpdate 때문에 API 응답의 updatedAt이 틀렸던 이유](https://ro-cks.github.io/preupdate-updatedat-mismatch.html)
 
 ## Tech Stack
